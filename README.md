@@ -1,5 +1,0 @@
-- 👋 Hi, I’m JOJOisMYdogName
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on pron moviee
-- 📫 How to reach me ... this is just troll chill git
